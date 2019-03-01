@@ -251,3 +251,7 @@ margin-bottom: 70px;
 .sidenav a:hover {
   color: #f1f1f1;
 }
+.star{
+  width: 5%;
+  margin-right: 100%;
+}
